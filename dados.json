@@ -1,0 +1,144 @@
+{
+    "bolos_simples": [
+      {
+        "nome_bolo": "1. Tradicional, Mesclado,Formigueiro, Banana, Limão",
+        "preco_p": "20,00",
+        "preco_m": "30,00",
+        "preco_g": "40,00"
+      },
+      {
+        "nome_bolo": "2. Bolo C/ Goiabada",
+        "preco_p": "22,00",
+        "preco_m": "32,00",
+        "preco_g": "42,00"
+      },
+      {
+        "nome_bolo": "3. Bolo de banana caramelizada",
+        "preco_p": "22,00",
+        "preco_m": "32,00",
+        "preco_g": "42,00"
+      },
+      {
+        "nome_bolo": "4. Bolo de Chocolate",
+        "preco_p": "25,00",
+        "preco_m": "35,00",
+        "preco_g": "50,00"
+      },
+      {
+        "nome_bolo": "5. Bolo de Milho",
+        "preco_p": "25,00",
+        "preco_m": "35,00",
+        "preco_g": "50,00"
+      },
+      {
+        "nome_bolo": "6. Bolo de Cenoura",
+        "preco_p": "23,00",
+        "preco_m": "33,00",
+        "preco_g": "46,00"
+      },
+      {
+        "nome_bolo": "Bolo de Laranja",
+        "preco_p": "23,00",
+        "preco_m": "33,00",
+        "preco_g": "46,00"
+      },
+      {
+        "nome_bolo": "8. Bolo Fitness de Banana e Canela",
+        "preco_p": "25,00",
+        "preco_m": "35,00",
+        "preco_g": "45,00"
+      },
+      {
+        "nome_bolo": "9. Bolo Mole",
+        "preco_p": "28,00",
+        "preco_m": "42,00",
+        "preco_g": "57,00"
+      }
+    ],
+    "coberturas": [
+      {
+        "nome_bolo": "10. Chocolate",
+        "preco_p": "+ 15,00",
+        "preco_m": "+ 23,00",
+        "preco_g": "+ 30,00"
+      },
+      {
+        "nome_bolo": "11. Ninho",
+        "preco_p": "+23,00",
+        "preco_m": "+35,00",
+        "preco_g": "+46,00"
+      },
+      {
+        "nome_bolo": "12. Limão",
+        "preco_p": "+18,00",
+        "preco_m": "+27,00",
+        "preco_g": "+36,00"
+      },
+      {
+        "nome_bolo": "13. KitKat",
+        "preco_p": "+15,00",
+        "preco_m": "+23,00",
+        "preco_g": "+30,00"
+      },
+      {
+        "nome_bolo": "14. Beijinho",
+        "preco_p": "+18,00",
+        "preco_m": "+27,00",
+        "preco_g": "+36,00"
+      },
+      {
+        "nome_bolo": "16. Ganache de chocolate e Morango",
+        "preco_p": "+18,00",
+        "preco_m": "+27,00",
+        "preco_g": "+36,00"
+      },
+      {
+        "nome_bolo": "17. Brigadeiro tradicional",
+        "preco_p": "+15,00",
+        "preco_m": "+23,00",
+        "preco_g": "+30,00"
+      },
+      {
+        "nome_bolo": "18. Brigadeiro e Morangos",
+        "preco_p": "+18,00",
+        "preco_m": "+27,00",
+        "preco_g": "+36,00"
+      },
+      {
+        "nome_bolo": "19. Brigadeiro Branco",
+        "preco_p": "+15,00",
+        "preco_m": "+23,00",
+        "preco_g": "+30,00"
+      },
+      {
+        "nome_bolo": "20. Brigadeiro Negresco",
+        "preco_p": "+15,00",
+        "preco_m": "+23,00",
+        "preco_g": "+30,00"
+      },
+      {
+        "nome_bolo": "21. Maracujá",
+        "preco_p": "+23,00",
+        "preco_m": "+35,00",
+        "preco_g": "+46,00"
+      },
+      {
+        "nome_bolo": "22. Ouro Branco",
+        "preco_p": "+18,00",
+        "preco_m": "+27,00",
+        "preco_g": "+36,00"
+      },
+      {
+        "nome_bolo": "23. Sonho de Valsa",
+        "preco_p": "+18,00",
+        "preco_m": "+27,00",
+        "preco_g": "+36,00"
+      },
+      {
+        "nome_bolo": "24. Sensação",
+        "preco_p": "+23,00",
+        "preco_m": "+35,00",
+        "preco_g": "+46,00"
+      }
+    ]
+  }
