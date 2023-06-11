@@ -140,5 +140,61 @@
         "preco_m": "+35,00",
         "preco_g": "+46,00"
       }
+    ],
+    "bolos_especiais": [
+      {
+        "descricao": "25. Bolo com Recheio e Cobertura (7 fatias)",
+        "valor": "50,00"
+      },
+      {
+        "descricao": "26. Bolo com Recheio e Cobertura (15 fatias)",
+        "valor": "Entre 100,00 a 120,00"
+      },
+      {
+        "descricao": "27. Bolo com Recheio e Cobertura (20 fatias)",
+        "valor": "Entre 140,00 a 160,00"
+      },
+      {
+        "descricao": "28. Bolo Duo (meio limão/meio chocolate) (12 fatias)",
+        "valor": "60,00"
+      },
+      {
+        "descricao": "29. MiniBolo (4 fatias) - Chocolate, brigadeiro, Negresco, Ninho.",
+        "valor": "12,00"
+      },
+      {
+        "descricao": "30. MiniBolo (4 fatias) - Oreo, Kitkat",
+        "valor": "13,00"
+      },
+      {
+        "descricao": "31. Bolo no Pote - Chocolate e Choconinho",
+        "valor": "9,00"
+      }
+    ],
+    "tortas" : [
+      {
+        "descricao": "32. Torta Doce Gelada Maracujá (15 fatias)",
+        "valor": "90,00"
+      },
+      {
+        "descricao": "33. Torta Doce Gelada Limão (15 fatias)",
+        "valor": "90,00"
+      },
+      {
+        "descricao": "34. Torta Bolo - Chocolate com disquetes (12 fatias)",
+        "valor": "70,00"
+      },
+      {
+        "descricao": "35. Torta Bolo - Chocolate com côco (12 fatias)",
+        "valor": "70,00"
+      },
+      {
+        "descricao": "36. Torta Bolo - Chocolate com morangos (12 fatias)",
+        "valor": "75,00"
+      },
+      {
+        "descricao": "37. Torta Bolo - Limão (12 fatias)",
+        "valor": "70,00"
+      }
     ]
   }

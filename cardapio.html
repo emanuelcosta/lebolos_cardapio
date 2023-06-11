@@ -64,6 +64,48 @@
       </table>
     </div>
   </fieldset>
+
+  
+  <fieldset>
+    <legend>
+      <h2>Bolos Especiais</h2>
+    </legend>
+
+    <div id="table-responsive">
+      <table class="table table-bordered table-hover table-striped">
+        <thead>
+          <tr>
+            <th>Descrição</th>
+            <th>Valor</th>
+          </tr>
+        </thead>
+        <tbody id="conteudo3">
+
+        </tbody>
+      </table>
+    </div>
+  </fieldset>
+
+  <fieldset>
+    <legend>
+      <h2>Tortas</h2>
+    </legend>
+
+    <div id="table-responsive">
+      <table class="table table-bordered table-hover table-striped">
+        <thead>
+          <tr>
+            <th>Descrição</th>
+            <th>Valor</th>
+          </tr>
+        </thead>
+        <tbody id="conteudo4">
+
+        </tbody>
+      </table>
+    </div>
+  </fieldset>
+
   <script type="text/javascript">
     $.ajax({
       url: "https://emanuelcosta.github.io/lebolos_cardapio/dados.json",
@@ -92,7 +134,26 @@
           html += "<td>" + element.preco_g + "</td></tr>";
 
           $('#conteudo2').append(html);
+        });
 
+        array = json.bolos_especiais;
+        var html = "";
+        array.forEach(element => {
+
+          html = "<tr><td>" + element.descricao + "</td>";
+          html += "<td>" + element.valor + "</td></tr>";
+
+          $('#conteudo3').append(html);
+        });
+
+        array = json.tortas;
+        var html = "";
+        array.forEach(element => {
+
+          html = "<tr><td>" + element.descricao + "</td>";
+          html += "<td>" + element.valor + "</td></tr>";
+
+          $('#conteudo4').append(html);
         });
 
       }
